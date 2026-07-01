@@ -63,7 +63,7 @@ html, body, [class*="css"] {
 .hero-sub {
     font-size: 1.05rem;
     font-weight: 300;
-    color: #a09890;
+    color: white;
     max-width: 520px;
     margin: 0 auto;
     line-height: 1.65;
@@ -91,7 +91,7 @@ html, body, [class*="css"] {
     background: rgba(255,255,255,0.05) !important;
     border: 1px solid rgba(255,140,50,0.25) !important;
     border-radius: 10px !important;
-    color: #f0ebe0 !important;
+    color: black !important;
     font-family: 'DM Sans', sans-serif !important;
     font-size: 1rem !important;
     padding: 0.75rem 1rem !important;
@@ -219,7 +219,7 @@ html, body, [class*="css"] {
 .result-content {
     font-size: 0.92rem;
     line-height: 1.8;
-    color: #cdc8bf;
+    color: white;
     white-space: pre-wrap;
     font-family: 'DM Sans', sans-serif;
 }

@@ -2,7 +2,7 @@ from agent import build_reader_agent, build_search_agent,writer_chain,critic_cha
 
 def run_research_pipeline(topic : str)-> dict:
     state ={}
-    #searcg agent working
+    #search agent working
     print("\n "+"="*50)
     print("step 1 - search agent is working...")
     print("="*50)
